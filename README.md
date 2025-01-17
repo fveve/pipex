@@ -19,6 +19,6 @@ Pipex is a basic implementation of pipes and redirection.
 3. How to run the project:
    ```bash
    ./pipex file1 cmd1 cmd2 file2
-4. Example
+4. Example:
    ```bash
     ./pipex infile "ls -l" "wc -l" outfile
