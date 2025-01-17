@@ -1,7 +1,7 @@
 # **Pipex**
 
 ### **Description**  
-Pipex is a basic implementation of pipe and redirection.
+Pipex is a basic implementation of pipes and redirection.
 
 ---
 
